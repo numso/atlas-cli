@@ -1,0 +1,20 @@
+{
+  "name": "atlas-cli",
+  "version": "0.1.0",
+  "description": "Atlas CLI",
+  "bin": {
+    "atlas": "index.js"
+  },
+  "author": {
+    "name": "Dallin Osmun",
+    "email": "dosmun@gmail.com",
+    "url": "https://github.com/numso"
+  },
+  "engines": {
+    "node": "0.10.*",
+    "npm": "1.2.*"
+  },
+  "dependencies": {
+    "readline-sync": "~0.2.2"
+  }
+}
